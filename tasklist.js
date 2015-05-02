@@ -1,6 +1,6 @@
 $.parse.init({
-    app_id : "PTB9aRvLMqnKJqB5vpsMVyEnlDAmFENR7JCLjUm4", // <-- enter your Application Id here 
-    rest_key : "PiQH3q4MAatwIJ2NnzZXuJslIcht50D3l4r1Ojns" // <--enter your REST API Key here    
+    app_id : "r8xGnNtBSwOyJBS8ewAJCOlEslY7YDM5QdUXW9Vy", // <-- enter your Application Id here 
+    rest_key : "X0QP0ufWefX8FE6zFPs00IUC9dPUTZq0x93862yG" // <--enter your REST API Key here    
 });
 
 function Task(data) {
